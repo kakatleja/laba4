@@ -1,0 +1,8 @@
+C:\Users\Шалопай\Desktop\C#\laba4.2\obj\Debug\laba4.2.csproj.AssemblyReference.cache
+C:\Users\Шалопай\Desktop\C#\laba4.2\obj\Debug\laba4.2.csproj.CoreCompileInputs.cache
+C:\Users\Шалопай\Desktop\C#\laba4.2\bin\Debug\laba4.2.exe.config
+C:\Users\Шалопай\Desktop\C#\laba4.2\bin\Debug\laba4.2.exe
+C:\Users\Шалопай\Desktop\C#\laba4.2\bin\Debug\laba4.2.pdb
+C:\Users\Шалопай\Desktop\C#\laba4.2\obj\Debug\laba4.2.exe
+C:\Users\Шалопай\Desktop\C#\laba4.2\obj\Debug\laba4.2.pdb
+C:\Users\Шалопай\Desktop\C#\laba4.2\obj\Debug\laba4.2.exe.config
